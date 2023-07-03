@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Anish Tejwani</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Cloud-Enthusiast;AI-ML;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Cloud-Enthusiast;AI-ML;Quick+learner;Self+Motivated;Problem+Solver;&color=blue&center=true" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">

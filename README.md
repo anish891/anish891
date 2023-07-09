@@ -16,7 +16,7 @@
 👯 Interested in Cloud Technologies...<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Java, Python, AWS, Mysql, HTML, CSS, DSA<br>
+💬 Ask me about Java, Python, AWS, Mysql, HTML, CSS, DSA, AI/ML<br>
 
 📫 How to reach me: anishtejwai891@gmail.com <br>
 

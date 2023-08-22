@@ -32,6 +32,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-📫 How to reach me: anishtejwai891@gmail.com <br>
+📫 Contact : anishtejwai891@gmail.com <br>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish891&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->

@@ -32,6 +32,12 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anish891&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=anish891&theme=nightowl&hide_border=true&fire=DD2727" alt="anish891" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=anish891&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="anish891" />
+</p>
+
 📫 Contact : anishtejwai891@gmail.com <br>
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish891&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->

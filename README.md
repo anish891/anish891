@@ -34,8 +34,6 @@
 </p>
 <br/>
 
-<h3 align="center">Passionate Software Developer</h3>
-
 
 
 📫 Contact : anishtejwai891@gmail.com <br>

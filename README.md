@@ -18,7 +18,7 @@
 👯 Interested in Cloud Technologies...<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Java, Python, AWS, Mysql, HTML, CSS, DSA, AI/ML<br>
+💬 Ask me about Python, React, JavaScript, Mysql, AI/ML<br>
 
 ### Skills
 

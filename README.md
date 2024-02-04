@@ -13,7 +13,7 @@
 # 💫 About Me:
 <br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Java Development<br>
+🌱 I’m currently learning React Development<br>
 💬 Ask me about Coding...<br>
 👯 Interested in Cloud Technologies...<br>
 👯 Self Motivated<br>

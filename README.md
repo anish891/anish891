@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Anish Tejwani</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=React;JavaScript;HTML;CSS;Redux;Next.js;TypeScriptQuick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=React;JavaScript;HTML;CSS;Redux;Next.js;TypeScript;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
 
 

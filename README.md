@@ -13,12 +13,12 @@
 # 💫 About Me:
 <br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning React Development<br>
+🌱 I’m currently learning FullStack Development<br>
 💬 Ask me about Coding...<br>
-👯 Interested in Cloud Technologies...<br>
+👯 Interested in DevOps<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Python, React, JavaScript, Mysql, AI/ML, HTML, CSS<br>
+💬 Ask me about Python, React, JavaScript, Mysql, HTML, CSS<br>
 
 ### Skills
 

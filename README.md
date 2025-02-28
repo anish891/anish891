@@ -15,7 +15,6 @@
 👯 I’m looking to collaborate on Good Tech Skills<br>
 🌱 I’m currently learning FullStack Development<br>
 💬 Ask me about Coding...<br>
-👯 Interested in DevOps<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
 💬 Ask me about Python, React, JavaScript, Mysql, HTML, CSS<br>

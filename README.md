@@ -78,14 +78,6 @@ I build intelligent software systems, AI-powered applications, and scalable web 
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish891&show_icons=true&theme=teal&hide_border=true&count_private=true&include_all_commits=true" alt="Anish's GitHub Stats" />
-</p>
-
----
-
 <!-- <p align="center">
   Built with ❤️ &nbsp;•&nbsp; Check out my full portfolio at <a href="https://anishtejwani.dev" target="_blank">anishtejwani.dev</a>
 </p> -->

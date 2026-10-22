@@ -39,7 +39,6 @@ I build intelligent software systems, AI-powered applications, and scalable web 
 | [**ChainDeck**](https://chaindeck.vercel.app/) · [code](https://github.com/anish891/chaindeck) | Live NIFTY 50 options analytics from the NSE option chain: OI buildup, max pain, gamma exposure, volatility, regime reading and alerts, with a plain-language explanation for every number. | JavaScript, Node.js, Express, Upstash Redis, Vercel |
 | **crewctl (Enterprise Agent Orchestrator)** | A no-code, YAML-driven orchestration framework on top of CrewAI, with RBAC, PII redaction, prompt-injection defense, human-in-the-loop tool approval, token tracing and run history. | Python, CrewAI, SQLite |
 | **Fault Line** | Counterfactual failure attribution for AI agent runs. It forks a recorded run at each step and uses reruns to find the step that actually caused the failure. | Python, SQLite |
-| [**Rust learning**](https://github.com/anish891/rust_learning) | My Rust practice repo, including an async web crawler and indexer built with Tokio. | Rust, Tokio, SQLite FTS5 |
 
 More on my [portfolio](https://anishtejwani.dev).
 

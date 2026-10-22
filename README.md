@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Anish Tejwani</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Agent+%26+Systems+Builder;Rust+%2F+Solana+(Anchor)+Developer;React+%2F+Next.js+%2F+TypeScript;Python+%2F+Java+%2F+Rust;Quick+Learner+%2F+Problem+Solver&color=0D9488&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Agent+%26+Systems+Builder;Solana+(Anchor)+Developer;React+%2F+Next.js+%2F+TypeScript;Python+%2F+Java;Quick+Learner+%2F+Problem+Solver&color=0D9488&center=true&width=500&height=50" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,17 +15,16 @@
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif" />
 
 ### 🚀 Summary
-I build intelligent software systems, AI-powered applications, and scalable web platforms, from Next.js frontends and Node.js backends to async Rust services, graph-backed AI agents and Solana smart contracts. I enjoy solving complex problems through automation, solid engineering, and clean user experiences, and I'm open to remote contract work.
+I build intelligent software systems, AI-powered applications, and scalable web platforms, from Next.js frontends and Node.js backends to graph-backed AI agents and Solana smart contracts. I enjoy solving complex problems through automation, solid engineering, and clean user experiences, and I'm open to remote contract work.
 
 ---
 
 ### 💫 About Me
 - 🔭 **Currently Building:** AI agents on connected data, developer tools, market analytics, and Solana programs with Anchor.
 - ⛓️ **Web3:** Learning and building in the Solana ecosystem, active with the Superteam India community.
-- 🦀 **Rust:** Async programming with Tokio, concurrency (`Arc`/`Mutex`, atomics), and ownership-driven design.
 - 📈 **Markets:** Built a live NIFTY 50 options analytics dashboard and IPO research tooling for Indian equities.
 - ⚙️ **Interests:** Artificial Intelligence, Distributed Systems, Backend Engineering, Smart Contracts, System Design, and Open Source.
-- 💬 **Ask me about:** Rust, Solana/Anchor, TypeScript, React, Next.js, Node.js, Python, Java, and SQL.
+- 💬 **Ask me about:** Solana/Anchor, TypeScript, React, Next.js, Node.js, Python, Java, and SQL.
 - ⚡ **Fun Fact:** I love automating repetitive tasks to optimize my development workflow!
 
 ---
@@ -49,13 +48,12 @@ More on my [portfolio](https://anishtejwani.dev).
 Technologies, frameworks, and tools I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,html,css,react,next,tailwind,nodejs,express,fastapi,postgres,supabase,firebase,docker,vercel,git,github,flutter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,next,tailwind,nodejs,express,fastapi,postgres,supabase,firebase,docker,vercel,git,github,flutter" alt="Tech Stack" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/Anchor-1E1E2E?logoColor=white" alt="Anchor" />
-  <img src="https://img.shields.io/badge/Tokio-async%20Rust-000000?logo=rust&logoColor=white" alt="Tokio" />
   <img src="https://img.shields.io/badge/FalkorDB-Graph%20DB-E5484D" alt="FalkorDB" />
   <img src="https://img.shields.io/badge/CrewAI-AI%20Agents-FF5A50" alt="CrewAI" />
 </p>
